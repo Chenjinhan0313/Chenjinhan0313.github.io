@@ -14,7 +14,7 @@ Watching movies(especially science fiction films and suspense films).
 
 Travelling(as far as possible)
 
-Playing open-world games
+Playing open-world games--I recommend 'Red Dead Redemption 2',which I have played for 61 hours!
 
 Listening music--Taylor Swift is my favourite singer
 

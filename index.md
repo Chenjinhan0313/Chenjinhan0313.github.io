@@ -1,6 +1,12 @@
-## Welcome 
+markdown
+
+---
+layout: default
+---
+## Welcome to My website
 
 My name is Chenjinhan.This is my personal website on GitHub Pages. 
+
 ## About Me
 I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.
 
